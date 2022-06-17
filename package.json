@@ -180,7 +180,7 @@
     "deep-assign": "^2.0.0",
     "del": "^2.2.1",
     "devtron": "^1.4.0",
-    "electron": "^7.1.1",
+    "electron": "^15.5.5",
     "electron-builder": "^21.2.0",
     "electron-context-menu": "^0.10.1",
     "electron-debug": "^3.0.1",
