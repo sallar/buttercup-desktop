@@ -211,7 +211,7 @@
     "i18next": "^10.6.0",
     "i18next-scanner": "^2.10.2",
     "is-error": "^2.2.2",
-    "jsdom": "^9.8.3",
+    "jsdom": "^16.5.0",
     "jsx-control-statements": "^3.2.8",
     "lint-staged": "^4.3.0",
     "lodash": "^4.17.14",
